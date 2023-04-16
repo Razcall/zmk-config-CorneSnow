@@ -19,6 +19,12 @@ if SHIELD_CORNE_LEFT || SHIELD_CORNE_RIGHT
 config ZMK_KEYBOARD_NAME
 	default "CorneSnow"
 
+config BT_DEVICE_NAME
+	default ZMK_KEYBOARD_NAME
+
+config USB_DEVICE_PRODUCT
+	default ZMK_KEYBOARD_NAME
+
 config ZMK_SPLIT
 	default y
 
