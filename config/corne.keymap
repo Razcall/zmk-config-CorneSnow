@@ -353,10 +353,10 @@ LAYER(GAMING, "Gaming",
 */
 
 LAYER(GLOWER, "G-low",
-  ___           &kp N1          &kp N2       &kp N3         &kp N4        &kp N5          &kp N6              &kp N7            &kp N8      &kp N9            &kp N0            ___  
-  ___           ___             ___          ___            ___           ___             ___                 &kp MINUS         &kp EQUAL   &kp LEFT_BRACKET  &kp RIGHT_BRACKET &kp BACKSLASH
-  ___           ___             ___          ___            ___           ___             ___                 ___               ___         ___               ___               ___  
-                                             ___            ___           ___             ___                 &mo ADJUST        ___
+  ___           &kp N1          &kp N2       &kp N3         &kp N4        &kp N5          &kp N6      &kp N7            &kp N8      &kp N9            &kp N0            ___  
+  ___           ___             ___          ___            ___           ___             ___         &kp MINUS         &kp EQUAL   &kp LEFT_BRACKET  &kp RIGHT_BRACKET &kp BACKSLASH
+  ___           ___             ___          ___            ___           ___             ___         ___               ___         ___               ___               ___  
+                                             ___            ___           ___             ___         ___               ___
 )
 
 /*
