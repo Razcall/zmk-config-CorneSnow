@@ -64,11 +64,10 @@
       #binding-cells = <2>; \
       flavor = "tap-preferred"; \
       tapping-term-ms = <tapping_term_ms>; \
-      quick-tap-ms = <150>; \
+      quick-tap-ms = <175>; \
       global-quick-tap; \
       bindings = <hold_behavior>, <tap_behavior>; \
-      hold-trigger-key-positions = <0>; \
-      hold-trigger-on-release; \
+
     }; \
   }; \
 };
