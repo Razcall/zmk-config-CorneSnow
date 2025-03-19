@@ -67,7 +67,6 @@
       quick-tap-ms = <175>; \
       global-quick-tap; \
       bindings = <hold_behavior>, <tap_behavior>; \
-
     }; \
   }; \
 };
