@@ -23,7 +23,7 @@
 TODO: test HomeRow mods
 */
 // Define Homerow behavior
-HOMEROW_MODS(hm, 175)
+HOMEROW_MODS(hm, &kp, &kp, 175)
 
 
 //tap dance definition for ctrl+esc
