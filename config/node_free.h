@@ -64,11 +64,11 @@
       #binding-cells = <2>; \
       flavor = "tap-preferred"; \
       tapping-term-ms = <tapping_term_ms>; \
-      quick-tap-ms = <150>;                  // Slightly faster double-tap detection
-      global-quick-tap;                      // Retain this for better double-tap anywhere
+      quick-tap-ms = <150>; \                // Slightly faster double-tap detection
+      global-quick-tap; \                    // Retain this for better double-tap anywhere
       bindings = <hold_behavior>, <tap_behavior>; \
-      hold-trigger-key-positions = <0>;      // Only trigger hold when other keys are pressed
-      hold-trigger-on-release;               // Keep this for your double-tap-hold requirement
+      hold-trigger-key-positions = <0>; \    // Only trigger hold when other keys are pressed
+      hold-trigger-on-release; \             // Keep this for your double-tap-hold requirement
     }; \
   }; \
 };
