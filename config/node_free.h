@@ -67,7 +67,7 @@
       quick-tap-ms = <175>; \
       global-quick-tap; \
       hold-trigger-on-release; \
-      hold-trigger-key-posistions = <0>; \
+      hold-trigger-key-positions = <0>; \
       bindings = <hold_behavior>, <tap_behavior>; \
     }; \
   }; \
